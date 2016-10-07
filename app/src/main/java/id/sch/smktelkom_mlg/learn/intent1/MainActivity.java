@@ -1,5 +1,6 @@
 package id.sch.smktelkom_mlg.learn.intent1;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
